@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Spmangukiya3091
-- 👀 I’m interested in ...PHP, HTML, CSS, LARAVEL, REACT, VUE,NODE,EXPRESS
-- 🌱 I’m currently learning ...PHP,JAVASCRIPT, REACT, VUE,NODE,EXPRESS
+- 👀 I’m interested in ...PHP, HTML, CSS, LARAVEL, REACT, VUE, JAVASCRIPT, NODE, EXPRESS
 - ✌  I am currently working in React, Node, Express, Vue, Laravel
 - 📫 How to reach me ...BY my Email:- sahilmangukiya566@gmail.com
 
