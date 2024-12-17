@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil P. Mangukiya</h1>
-<h3 align="center">a Full Stack MERN Developer with over 4 years of experience building scalable, robust web applications.</h3>
+<h3 align="center">Full Stack MERN Developer with over 3 years of experience building scalable, robust web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spmangukiya3091&label=Profile%20views&color=0e75b6&style=flat" alt="spmangukiya3091" /> </p>
 
