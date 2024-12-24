@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **NextJs, AI**
 
-- 👨‍💻 All of my projects are available at [https://sahilmangukiya-me.vercel.app/](https://sahilmangukiya-me.vercel.app/)
+- 👨‍💻 All of my projects are available at [sahilmangukiya.me](https://sahilmangukiya-me.vercel.app/)
 
 - 💬 Ask me about **react, node, php and laravel**
 
 - 📫 How to reach me **sahilmangukiya566@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IKIblJZ9FPE0b5yUPY_Zn6i3_IteUabL/view?usp=sharing](https://drive.google.com/file/d/1IKIblJZ9FPE0b5yUPY_Zn6i3_IteUabL/view?usp=sharing)
+- 📄 Know about my experiences [you can see](https://drive.google.com/file/d/1IKIblJZ9FPE0b5yUPY_Zn6i3_IteUabL/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
