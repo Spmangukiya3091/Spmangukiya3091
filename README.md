@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahilmangukiya566@gmail.com**
 
-- 📄 Know about my experiences [you can see](https://drive.google.com/file/d/1IKIblJZ9FPE0b5yUPY_Zn6i3_IteUabL/view?usp=sharing)
+- 📄 Know about my experiences from [here](https://drive.google.com/file/d/1IKIblJZ9FPE0b5yUPY_Zn6i3_IteUabL/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
